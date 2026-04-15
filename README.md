@@ -25,7 +25,7 @@
 * **Data & Analytics:** SQL, Power BI, Excel, R
 * **Engineering Tools:** AutoCAD, AutoNest, CNC CAD
 * **Methodologies:** Lean Six Sigma, 5S, Kaizen, Time Studies
-* **Other:** ERP Systems (M3), Project Management, SOP Development
+* **Other:** ERP Systems (M3, Syspro), Project Management, SOP Development
 
 5 How to Reach Me
 
