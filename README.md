@@ -3,7 +3,7 @@
 
 * Industrial Engineering student (BEng Tech & Honours – University of Johannesburg)
 * Passionate about **data analysis, process optimization, and continuous improvement**
-*  Skilled in **SQL, Power BI, Excel, and process improvement methodologies (Lean, 5S, Kaizen)**
+*  Skilled in **SQL, Power BI, R, Excel, and process improvement methodologies (Lean, 5S, Kaizen)**
 
 2  What I’m Currently Working On
 
@@ -29,7 +29,7 @@
 
 5 How to Reach Me
 
-* 📧 Email: tsireledzomatsenene@gmail.com
-* 📱 Phone: 071 548 3399 / 068 574 5161
-* 💼 LinkedIn: https://www.linkedin.com/in/tsireledzo-matsenene-7076b9252/
- *Always learning, improving, and turning data into meaningful impact.*
+*  Email: tsireledzomatsenene@gmail.com
+* Phone: 071 548 3399 / 068 574 5161
+* LinkedIn: https://www.linkedin.com/in/tsireledzo-matsenene-7076b9252/
+ **Always learning, improving, and turning data into meaningful impact.**
