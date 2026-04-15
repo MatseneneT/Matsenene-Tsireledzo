@@ -30,6 +30,4 @@
 5 How to Reach Me
 
 *  Email: tsireledzomatsenene@gmail.com
-* Phone: 071 548 3399 / 068 574 5161
-* LinkedIn: https://www.linkedin.com/in/tsireledzo-matsenene-7076b9252/
  **Always learning, improving, and turning data into meaningful impact.**
